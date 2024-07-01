@@ -3,7 +3,9 @@
 ---
 
 > 感谢所有老前辈们，感谢所有同类代码。因为有了你们，世界才丰富多采。
-
+## Charles Chen 
+## Toronto ON CA
+## Bachelors
 
 ## Douglas Crockford 的尝试与悟道
 
